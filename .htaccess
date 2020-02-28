@@ -1,4 +1,4 @@
-htaccess SSL https redirect
+## htaccess SSL https redirect ##
 
 
 RewriteEngine On
